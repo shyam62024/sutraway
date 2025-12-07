@@ -13,6 +13,11 @@ const Packages = () => {
         "Content Creation (2 posts/week)",
         "Social Media Management",
         "Basic Analytics & Reporting",
+        "Narrative-based content calendar",
+        "Core content (design + reels)",
+        "Social media management & posting",
+        "Brand tone & visual direction",
+        "Monthly performance review",
       ],
     },
     {
@@ -25,6 +30,12 @@ const Packages = () => {
         "E-Commerce Setup & Management",
         "Influencer Collaborations",
         "Advanced Analytics & Strategy",
+        "Cinematic reels & story-driven content",
+        "Campaign planning & strategy sessions",
+        "Creative direction & narrative development",
+        "Growth insights & optimization",
+        "Required influencer / collaborator support",
+
       ],
       featured: true,
     },
@@ -32,13 +43,20 @@ const Packages = () => {
       name: "Enterprise",
       subtitle: "Full-stack creative + performance",
       features: [
-        "Everything in Growth",
+        "Includes everything in Growth, plus",
         "Dedicated Account Team",
         "Video Production & Editing",
         "Full E-Commerce Optimization",
         "Multi-Channel Media Strategy",
         "Custom Partnership Deals",
         "Monthly Strategy Sessions",
+        "High-end production (films, reels, photography)",
+        "Brand films & launch campaigns",
+        "Full campaign architecture & direction",
+        "Dedicated Account Team",
+        "Influencer and creator management",
+        "Advanced analytics & monthly advisory",
+
       ],
     },
   ];
@@ -111,6 +129,8 @@ const Packages = () => {
               "E-Commerce Consulting",
               "Custom Web Development",
               "Advanced Automation Setup",
+              "Brand Films · Website · Meta Ads · Creator-Led Campaigns · E-Commerce Consulting & Setup",
+
             ].map((addon, idx) => (
               <div key={idx} className="flex items-center gap-3 text-muted-foreground">
                 <Check className="w-4 h-4 text-gold flex-shrink-0" />
