@@ -19,7 +19,7 @@ const ProductionHouse = () => {
       <div className="container mx-auto px-6">
         <SectionTitle 
           title="From Our Production House" 
-          subtitle="Our elite content quality comes from working on large-scale productions — commercials, documentaries, art films, and music videos."
+          subtitle="Our elite content quality comes from working on large-scale productions – from television commercials and documentaries to art projects, music videos, and short films. Each frame crafted with precision. Each story told with purpose. That’s where Sutra’s cinematic edge comes from."
         />
 
         {/* Showcase Grid */}
