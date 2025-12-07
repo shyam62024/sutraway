@@ -87,7 +87,7 @@ const Layout = () => {
           <div className="flex flex-col md:flex-row justify-between items-center gap-6">
             <img src={sutraLogo} alt="SUTRA" width="512" height="320" className="h-10 w-auto" />
             <div className="text-muted-foreground text-sm">
-              © 2025 SUTRA. Every thread begins with a conversation.
+              © 2025 SUTRA. The story begins when the thread connects
               <Link to="/admin/login" className="ml-4 text-muted-foreground/40 hover:text-gold transition-colors text-xs">
                 •
               </Link>
