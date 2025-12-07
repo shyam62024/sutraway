@@ -28,6 +28,14 @@ const Contact = () => {
     "E-Commerce",
     "Growth & Media",
     "Brand Collaborations",
+    "Complete Brand Management",
+    "Marketing & Strategy",
+      "Content Production",
+        "E-Commerce",
+          "Growth & Media",
+            "Brand Collaborations",
+              "Customized Services",
+
   ];
 
   const handleSubmit = (e: React.FormEvent) => {
